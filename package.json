@@ -1,0 +1,19 @@
+{
+  "name": "fullmern",
+  "version": "1.0.0",
+  "description": "prototype for Mern and Heroku  to see how to best configure the MERN for Heroku successfully.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenkbaries/fullmern.git"
+  },
+  "author": "John Towery <kbaries@gmail.com> (johntowery.work)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenkbaries/fullmern/issues"
+  },
+  "homepage": "https://github.com/zenkbaries/fullmern#readme"
+}
